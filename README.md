@@ -238,3 +238,6 @@ This repository serves as the official landing page for iZ3D Driver. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of iZ3D Driver today!**
+
+---
+**Last updated:** 2026-09-12 01:01:45 UTC
